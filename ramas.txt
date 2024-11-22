@@ -1,3 +1,7 @@
 cambio main 1
+<<<<<<< HEAD
 cambio develop 1
 cambio develop 2
+=======
+cambio hotfix 1
+>>>>>>> master
